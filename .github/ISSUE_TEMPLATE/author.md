@@ -1,9 +1,10 @@
 ---
-name: Author
+name  Nyalwendo. imalisusan, MaryannGitonga
 about: Contributors
 title: ''
 labels: ''
-assignees: ''
+assignees: Nyalwendo, imalisusan, MaryannGitonga
+
 
 ---
 
